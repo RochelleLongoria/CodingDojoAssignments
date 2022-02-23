@@ -1,0 +1,33 @@
+*   {
+margin: 10px;
+}
+h1  {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: 800;
+    font-size: 60px;
+    background-color: black;
+    padding: 8px;
+    text-align:left; text-indent: 20px;
+
+}
+
+h1 span {
+    color:aqua;
+}
+
+h2  {
+    color: white;
+    text-align: center; font-style: italic;
+    font-weight:100; font-size: 30px;
+    background-color: rgb(94, 7, 116);
+    padding: 18px;
+}
+
+h3  {
+    color: rgb(87, 11, 117);
+    background-color: rgb(159, 188, 231);
+    text-align: right;
+    text-decoration: underline;
+    padding: 12px;
+}
